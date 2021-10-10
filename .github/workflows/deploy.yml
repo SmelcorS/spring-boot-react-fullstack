@@ -11,7 +11,7 @@ env:
   POSTGRESQL_VERSION: 13.1
   POSTGRESQL_DB: amigoscode
   POSTGRESQL_USER: postgres
-  POSTGRESQL_PASSWORD: FgbGJLZtp9z3duf
+  POSTGRESQL_PASSWORD: maxtro123
   # Java
   JAVA_VERSION: 1.16
   # DockerHub
