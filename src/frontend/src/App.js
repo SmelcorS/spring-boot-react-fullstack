@@ -1,7 +1,7 @@
 import './App.css';
 import {deleteStudent, getAllStudents} from "./client";
 import { useState, useEffect } from 'react';
-import { Radio } from 'antd';
+import {Divider, Radio} from 'antd';
 import {
     Layout,
     Menu,
