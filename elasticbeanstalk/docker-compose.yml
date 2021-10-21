@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   backend:
-    image: "spirtow1/springboot-react-fullstack:21.10.2021.19.51.39"
+    image: "spirtow1/springboot-react-fullstack:21.10.2021.19.58.54"
     ports:
       - "80:8080"
     restart: "always"
